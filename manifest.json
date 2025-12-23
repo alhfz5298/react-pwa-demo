@@ -1,0 +1,6 @@
+{
+    "display": "standalone",
+    "start_url": "/",
+    "name": "My PWA",
+    "short_name": "MyPWA"
+  }
